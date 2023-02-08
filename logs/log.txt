@@ -1,0 +1,25 @@
+2023-02-08|23:48:21 Watching firefox
+2023-02-08|23:48:21 Watching spotify
+2023-02-08|23:48:21 spotify launched with PID 6539
+2023-02-08|23:48:41 Stopped watching spotify
+2023-02-08|23:48:55 Watching insomnia
+2023-02-08|23:48:55 insomnia launched with PID 6882
+2023-02-08|23:49:08 Stopped watching insomnia
+2023-02-08|23:49:08 Watching spotify
+2023-02-08|23:50:38 firefox launched with PID 7679
+2023-02-08|23:50:42 firefox launched with PID 8027
+2023-02-08|23:50:47 firefox launched with PID 8368
+2023-02-08|23:51:02 firefox launched with PID 8781
+2023-02-08|23:51:16 Stopped watching spotify
+2023-02-08|23:51:16 Watching spotify
+2023-02-08|23:51:16 Watching insomnia
+2023-02-08|23:51:16 insomnia launched with PID 9159
+2023-02-08|23:51:22 insomnia launched with PID 9353
+2023-02-08|23:51:31 spotify launched with PID 9627
+2023-02-08|23:51:44 Stopped watching insomnia
+2023-02-08|23:51:53 Stopped watching insomnia
+2023-02-08|23:51:53 Watching insomnia
+2023-02-08|23:51:56 firefox launched with PID 9951
+2023-02-08|23:52:07 firefox launched with PID 10342
+2023-02-08|23:54:07 Stopped watching insomnia
+2023-02-08|23:54:07 Watching insomnia

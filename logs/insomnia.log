@@ -1,0 +1,84 @@
+23:34:00.300 › Running version 2022.7.0
+23:34:00.515 › [electron client protocol] FAILED to set default protocol 'insomnia://'
+23:34:00.525 › [electron client protocol] the current executable is not the default protocol for 'insomnia://'
+23:34:00.637 › [electron client protocol] the default application set for 'insomnia://' is 'insomnia.desktop
+'
+23:34:00.829 › [fix] Running database repairs
+23:34:00.861 › [db] Initialized DB at /home/sreejan/.config/Insomnia/insomnia.$TYPE.db
+23:34:00.861 › [db] Init responses DB
+23:34:00.861 › [db] Init websocket-responses DB
+libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+23:34:00.869 › [localstorage] Initialized at /home/sreejan/.config/Insomnia/localStorage
+23:34:00.962 › [main] Loading file:///opt/Insomnia/resources/app.asar/index.html
+23:34:01.480 › [updater] Updater not running platform=linux dev=false
+23:34:02.856 › [main] Window ready, handling command line arguments [ '/opt/Insomnia/insomnia' ]
+23:37:33.387 › Running version 2022.7.0
+23:37:33.617 › [electron client protocol] FAILED to set default protocol 'insomnia://'
+23:37:33.626 › [electron client protocol] the current executable is not the default protocol for 'insomnia://'
+23:37:33.740 › [electron client protocol] the default application set for 'insomnia://' is 'insomnia.desktop
+'
+23:37:33.904 › [fix] Running database repairs
+libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+23:37:33.929 › [db] Initialized DB at /home/sreejan/.config/Insomnia/insomnia.$TYPE.db
+23:37:33.929 › [db] Init responses DB
+23:37:33.929 › [db] Init websocket-responses DB
+23:37:33.934 › [localstorage] Initialized at /home/sreejan/.config/Insomnia/localStorage
+23:37:34.008 › [main] Loading file:///opt/Insomnia/resources/app.asar/index.html
+23:37:34.529 › [updater] Updater not running platform=linux dev=false
+23:37:35.799 › [main] Window ready, handling command line arguments [ '/opt/Insomnia/insomnia' ]
+23:41:04.092 › Running version 2022.7.0
+23:41:04.341 › [electron client protocol] FAILED to set default protocol 'insomnia://'
+23:41:04.352 › [electron client protocol] the current executable is not the default protocol for 'insomnia://'
+23:41:04.485 › [electron client protocol] the default application set for 'insomnia://' is 'insomnia.desktop
+'
+23:41:04.664 › [fix] Running database repairs
+libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+23:41:04.690 › [db] Initialized DB at /home/sreejan/.config/Insomnia/insomnia.$TYPE.db
+23:41:04.691 › [db] Init responses DB
+23:41:04.691 › [db] Init websocket-responses DB
+23:41:04.696 › [localstorage] Initialized at /home/sreejan/.config/Insomnia/localStorage
+23:41:04.778 › [main] Loading file:///opt/Insomnia/resources/app.asar/index.html
+23:41:05.293 › [updater] Updater not running platform=linux dev=false
+23:41:06.855 › [main] Window ready, handling command line arguments [ '/opt/Insomnia/insomnia' ]
+23:48:56.206 › Running version 2022.7.0
+23:48:56.359 › [electron client protocol] FAILED to set default protocol 'insomnia://'
+23:48:56.370 › [electron client protocol] the current executable is not the default protocol for 'insomnia://'
+23:48:56.483 › [electron client protocol] the default application set for 'insomnia://' is 'insomnia.desktop
+'
+23:48:56.615 › [fix] Running database repairs
+23:48:56.644 › [db] Initialized DB at /home/sreejan/.config/Insomnia/insomnia.$TYPE.db
+23:48:56.644 › [db] Init responses DB
+23:48:56.644 › [db] Init websocket-responses DB
+23:48:56.650 › [localstorage] Initialized at /home/sreejan/.config/Insomnia/localStorage
+libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+23:48:56.721 › [main] Loading file:///opt/Insomnia/resources/app.asar/index.html
+23:48:57.237 › [updater] Updater not running platform=linux dev=false
+23:48:58.475 › [main] Window ready, handling command line arguments [ '/opt/Insomnia/insomnia' ]
+23:51:17.589 › Running version 2022.7.0
+23:51:17.753 › [electron client protocol] FAILED to set default protocol 'insomnia://'
+23:51:17.763 › [electron client protocol] the current executable is not the default protocol for 'insomnia://'
+23:51:17.875 › [electron client protocol] the default application set for 'insomnia://' is 'insomnia.desktop
+'
+23:51:18.013 › [fix] Running database repairs
+libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+23:51:18.051 › [db] Initialized DB at /home/sreejan/.config/Insomnia/insomnia.$TYPE.db
+23:51:18.052 › [db] Init responses DB
+23:51:18.052 › [db] Init websocket-responses DB
+23:51:18.057 › [localstorage] Initialized at /home/sreejan/.config/Insomnia/localStorage
+23:51:18.124 › [main] Loading file:///opt/Insomnia/resources/app.asar/index.html
+23:51:18.640 › [updater] Updater not running platform=linux dev=false
+23:51:19.865 › [main] Window ready, handling command line arguments [ '/opt/Insomnia/insomnia' ]
+23:51:23.741 › Running version 2022.7.0
+23:51:23.917 › [electron client protocol] FAILED to set default protocol 'insomnia://'
+23:51:23.929 › [electron client protocol] the current executable is not the default protocol for 'insomnia://'
+23:51:24.049 › [electron client protocol] the default application set for 'insomnia://' is 'insomnia.desktop
+'
+23:51:24.196 › [fix] Running database repairs
+libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+23:51:24.235 › [db] Initialized DB at /home/sreejan/.config/Insomnia/insomnia.$TYPE.db
+23:51:24.235 › [db] Init responses DB
+23:51:24.235 › [db] Init websocket-responses DB
+23:51:24.241 › [localstorage] Initialized at /home/sreejan/.config/Insomnia/localStorage
+23:51:24.308 › [main] Loading file:///opt/Insomnia/resources/app.asar/index.html
+23:51:24.823 › [updater] Updater not running platform=linux dev=false
+23:51:26.010 › [main] Window ready, handling command line arguments [ '/opt/Insomnia/insomnia' ]

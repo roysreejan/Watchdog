@@ -1,2 +1,0 @@
-/home/sreejan/Dev/Watchdog/build/CMakeFiles/edit_cache.dir
-/home/sreejan/Dev/Watchdog/build/CMakeFiles/rebuild_cache.dir

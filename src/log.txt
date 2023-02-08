@@ -1,7 +1,0 @@
-
-code is running with PID 139122
-
-chrome is running with PID 142248
-
-Launched firefox with PID 143097
-
