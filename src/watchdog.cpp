@@ -3,5 +3,5 @@
 int main()
 {
     // start the watchdog
-    pediodicCheck(1000);
+    pediodicCheck(1000); // 1 second
 }

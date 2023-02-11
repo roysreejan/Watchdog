@@ -99,3 +99,64 @@
 [2023-02-08T17:52:06Z ERROR viaduct::backend::ffi] Missing HTTP status
 [2023-02-08T17:52:06Z ERROR viaduct::backend::ffi] Missing HTTP status
 [GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+[2023-02-08T18:47:03Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2023-02-08T18:47:03Z ERROR viaduct::backend::ffi] Missing HTTP status
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+[2023-02-10T04:02:24Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2023-02-10T04:02:24Z ERROR viaduct::backend::ffi] Missing HTTP status
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+[2023-02-10T04:08:53Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2023-02-10T04:08:53Z ERROR viaduct::backend::ffi] Missing HTTP status
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+[2023-02-10T04:08:55Z ERROR glean_core::metrics::ping] Invalid reason code startup for ping background-update
+[2023-02-10T04:09:40Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2023-02-10T04:09:40Z ERROR viaduct::backend::ffi] Missing HTTP status
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+[2023-02-10T04:56:43Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2023-02-10T04:56:43Z ERROR viaduct::backend::ffi] Missing HTTP status
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+[2023-02-10T04:56:50Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2023-02-10T04:56:50Z ERROR viaduct::backend::ffi] Missing HTTP status
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+[2023-02-10T05:00:41Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2023-02-10T05:00:41Z ERROR viaduct::backend::ffi] Missing HTTP status
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+[2023-02-10T05:00:46Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2023-02-10T05:00:46Z ERROR viaduct::backend::ffi] Missing HTTP status
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+[2023-02-10T05:09:59Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2023-02-10T05:09:59Z ERROR viaduct::backend::ffi] Missing HTTP status
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+[2023-02-10T05:10:08Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2023-02-10T05:10:08Z ERROR viaduct::backend::ffi] Missing HTTP status
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+[2023-02-10T05:10:50Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2023-02-10T05:10:50Z ERROR viaduct::backend::ffi] Missing HTTP status
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+[2023-02-10T05:11:37Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2023-02-10T05:11:37Z ERROR viaduct::backend::ffi] Missing HTTP status
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+[2023-02-10T05:12:23Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2023-02-10T05:12:23Z ERROR viaduct::backend::ffi] Missing HTTP status
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+[2023-02-10T05:20:37Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2023-02-10T05:20:37Z ERROR viaduct::backend::ffi] Missing HTTP status
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+[2023-02-10T06:18:47Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2023-02-10T06:18:47Z ERROR viaduct::backend::ffi] Missing HTTP status
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+[2023-02-10T07:19:35Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2023-02-10T07:19:35Z ERROR viaduct::backend::ffi] Missing HTTP status
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+[2023-02-10T07:20:43Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2023-02-10T07:20:43Z ERROR viaduct::backend::ffi] Missing HTTP status
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+[2023-02-10T07:20:46Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2023-02-10T07:20:46Z ERROR viaduct::backend::ffi] Missing HTTP status
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+[2023-02-10T08:14:43Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2023-02-10T08:14:43Z ERROR viaduct::backend::ffi] Missing HTTP status
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+[2023-02-10T08:14:53Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2023-02-10T08:14:53Z ERROR viaduct::backend::ffi] Missing HTTP status
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.

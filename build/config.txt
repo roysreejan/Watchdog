@@ -1,2 +1,4 @@
-firefox google.com
-insomnia
+# firefox with startup page google.com and brought to foreground
+firefox,google.com,foreground
+# insomnia with no startup parameter and not a foreground process
+insomnia,,

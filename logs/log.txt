@@ -23,3 +23,108 @@
 2023-02-08|23:52:07 firefox launched with PID 10342
 2023-02-08|23:54:07 Stopped watching insomnia
 2023-02-08|23:54:07 Watching insomnia
+2023-02-10|10:01:40 Watching firefox
+2023-02-10|10:01:40 Watching insomnia
+2023-02-10|10:01:40 firefox launched with PID 5900
+2023-02-10|10:01:40 insomnia launched with PID 5916
+2023-02-10|10:01:58 Stopped watching insomnia
+2023-02-10|10:01:58 Watching insomnia
+2023-02-10|10:01:58 Watching spotify
+2023-02-10|10:01:58 spotify launched with PID 6570
+2023-02-10|10:08:43 Watching firefox
+2023-02-10|10:08:43 Watching insomnia
+2023-02-10|10:08:43 firefox launched with PID 8027
+2023-02-10|10:08:43 insomnia launched with PID 8035
+2023-02-10|10:08:50 insomnia launched with PID 8531
+2023-02-10|10:08:54 firefox launched with PID 8709
+2023-02-10|10:09:12 Stopped watching insomnia
+2023-02-10|10:56:36 Watching firefox
+2023-02-10|10:56:36 Watching insomnia
+2023-02-10|10:56:36 firefox launched with PID 14803
+2023-02-10|10:56:36 insomnia launched with PID 14810
+2023-02-10|10:56:42 insomnia launched with PID 15253
+2023-02-10|10:56:43 firefox launched with PID 15333
+2023-02-10|10:59:33 Watching firefox
+2023-02-10|10:59:33 Watching insomnia
+2023-02-10|10:59:33 firefox launched with PID 15993
+2023-02-10|10:59:33 wmctrl is not installed, cannot bring the process window to the front
+2023-02-10|10:59:59 Watching firefox
+2023-02-10|10:59:59 Watching insomnia
+2023-02-10|10:59:59 insomnia launched with PID 16316
+2023-02-10|10:59:59 Brought insomnia window to the front
+2023-02-10|11:00:38 insomnia launched with PID 16705
+2023-02-10|11:00:38 Brought insomnia window to the front
+2023-02-10|11:00:41 firefox launched with PID 16889
+2023-02-10|11:00:41 Brought firefox window to the front
+2023-02-10|11:09:29 Watching firefox
+2023-02-10|11:09:29 Watching insomnia
+2023-02-10|11:09:29 firefox launched with PID 19001
+2023-02-10|11:09:29 insomnia launched with PID 19008
+2023-02-10|11:09:58 insomnia launched with PID 19671
+2023-02-10|11:09:59 firefox launched with PID 19758
+2023-02-10|11:10:32 Watching firefox
+2023-02-10|11:10:32 Watching insomnia
+2023-02-10|11:10:32 firefox launched with PID 20305
+2023-02-10|11:10:32 insomnia launched with PID 20312
+2023-02-10|11:10:42 insomnia launched with PID 20804
+2023-02-10|11:11:08 Watching firefox
+2023-02-10|11:11:08 Watching insomnia
+2023-02-10|11:11:08 firefox launched with PID 21088
+2023-02-10|11:11:08 insomnia launched with PID 21095
+2023-02-10|11:12:07 Watching firefox
+2023-02-10|11:12:07 Watching insomnia
+2023-02-10|11:12:07 firefox launched with PID 21940
+2023-02-10|11:12:07 insomnia launched with PID 21947
+2023-02-10|11:13:39 Watching firefox
+2023-02-10|11:13:39 Watching insomnia
+2023-02-10|11:13:39 firefox launched with PID 22756
+2023-02-10|11:13:39 insomnia launched with PID 22763
+2023-02-10|11:15:37 Watching firefox
+2023-02-10|11:15:37 Watching insomnia
+2023-02-10|11:15:37 insomnia launched with PID 23588
+2023-02-10|11:19:38 Watching firefox
+2023-02-10|11:19:38 Watching insomnia
+2023-02-10|11:19:38 insomnia launched with PID 24341
+2023-02-10|11:20:14 Watching firefox
+2023-02-10|11:20:14 Watching insomnia
+2023-02-10|11:20:14 insomnia launched with PID 24746
+2023-02-10|11:21:51 Watching firefox
+2023-02-10|11:21:51 Watching insomnia
+2023-02-10|11:21:51 firefox launched with PID 25196
+2023-02-10|11:21:51 insomnia launched with PID 25203
+2023-02-10|11:22:48 Watching firefox
+2023-02-10|11:22:48 Watching insomnia
+2023-02-10|11:22:48 insomnia launched with PID 25791
+2023-02-10|12:18:12 Watching firefox
+2023-02-10|12:18:12 Watching insomnia
+2023-02-10|12:18:12 insomnia launched with PID 28922
+2023-02-10|12:20:47 Watching firefox
+2023-02-10|12:20:47 Watching insomnia
+2023-02-10|12:20:47 firefox launched with PID 29592
+2023-02-10|12:20:47 insomnia launched with PID 29599
+2023-02-10|12:52:35 Watching firefox
+2023-02-10|12:52:35 Watching insomnia
+2023-02-10|12:52:36 insomnia launched with PID 58281
+2023-02-10|13:17:17 Watching firefox
+2023-02-10|13:17:17 Watching insomnia
+2023-02-10|13:17:17 insomnia launched with PID 64062
+2023-02-10|13:18:07 Watching firefox
+2023-02-10|13:18:07 Watching insomnia
+2023-02-10|13:18:07 insomnia launched with PID 64609
+2023-02-10|13:20:39 Watching firefox
+2023-02-10|13:20:39 Watching insomnia
+2023-02-10|13:20:39 firefox launched with PID 65592
+2023-02-10|13:20:39 insomnia launched with PID 65599
+2023-02-10|13:20:43 firefox launched with PID 66092
+2023-02-10|13:20:47 firefox launched with PID 66435
+2023-02-10|13:20:48 insomnia launched with PID 66660
+2023-02-10|14:14:31 Watching firefox
+2023-02-10|14:14:31 Watching insomnia
+2023-02-10|14:14:31 insomnia launched with PID 76775
+2023-02-10|14:14:43 firefox launched with PID 77021
+2023-02-10|14:14:45 insomnia launched with PID 77358
+2023-02-11|09:40:10 Watching firefox
+2023-02-11|09:40:10 Watching insomnia
+2023-02-11|09:40:10 firefox launched with PID 5420
+2023-02-11|09:40:10 insomnia launched with PID 5427
+2023-02-11|09:40:19 insomnia launched with PID 5957
