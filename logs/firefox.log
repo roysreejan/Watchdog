@@ -160,3 +160,5 @@
 [2023-02-10T08:14:53Z ERROR viaduct::backend::ffi] Missing HTTP status
 [2023-02-10T08:14:53Z ERROR viaduct::backend::ffi] Missing HTTP status
 [GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+[2023-02-11T04:01:51Z ERROR viaduct::backend::ffi] Missing HTTP status
+[2023-02-11T04:01:51Z ERROR viaduct::backend::ffi] Missing HTTP status

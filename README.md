@@ -119,7 +119,7 @@ sudo systemctl start <service_name>
 sudo systemctl status <service_name>
 ```
 
-<img src="images/service.png"/>
+<img src="images/service.png" alt="Service" width="500"/>
 
 ## Dependencies
 
